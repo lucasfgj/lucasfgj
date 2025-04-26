@@ -17,7 +17,7 @@ Rede Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-gabriel-a81573187/) 
 [![Gmail](https://img.shields.io/badge/-lucasfg071421@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielleribeiro2010@gmail.com)](https://mail.google.com/mail/u/2/?ogbl#inbox)
 
-<div style="display: flex; gap: 15px; align-itens: center">
+<div style="display: flex; gap: 20px; align-itens: center">
 
   <a href="https://github.com/lucasfgj/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfgj&show_icons=true&theme=dark#gh-dark-mode-only" />
